@@ -28,3 +28,4 @@ En este listado organizo una recopilación de preguntas y prácticas del sitio o
 1. [Anotaciones](https://docs.oracle.com/javase/tutorial/java/annotations/QandE/questions.html)
 1. [Lambdas](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)
 1. [Streams](https://www.oracle.com/technical-resources/articles/java/ma14-java-se-8-streams.html)
+1. [Operaciones de agregación](https://docs.oracle.com/javase/tutorial/collections/streams/)
