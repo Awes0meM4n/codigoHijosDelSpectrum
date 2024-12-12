@@ -11,3 +11,9 @@ Partiendo de las clases `Coche`, `VehiculoConRuedas`, `Vehiculo`, etc... que se 
 4. La reparación tendrá una fecha de entrega del vehículo y tiene un periodo de garantía de un año. En caso de surgir la misma avería en menos de un año, el taller reparará dicha avería sin coste para el cliente a menos que en la diagnosis de detecte algún tipo de mal uso o fraude.
 
 Si se ha realizado la práctica de `Tienda` se pueden utilizar también las clases de ese proyecto (`Cliente`, `Tienda`, etc...) para adaptarlas a este.
+
+Aquí hay una serie de vídeos haciéndose una solución en clase:  
+* [Parte 1](https://youtu.be/Q4PExwgkvLk)
+* [Parte 2](https://youtu.be/Xus-8ezml3Y)
+* [Parte 3](https://youtu.be/Mrtgk4Se-Aw)
+* [Parte 4](https://youtu.be/3PSMp2qc1mA)
